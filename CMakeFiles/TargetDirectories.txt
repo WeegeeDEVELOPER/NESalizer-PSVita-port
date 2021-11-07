@@ -1,0 +1,5 @@
+/mnt/c/Users/bashe/Desktop/vita_projects/NESalizer-master/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/bashe/Desktop/vita_projects/NESalizer-master/CMakeFiles/edit_cache.dir
+/mnt/c/Users/bashe/Desktop/vita_projects/NESalizer-master/CMakeFiles/NESalizer.vpk.dir
+/mnt/c/Users/bashe/Desktop/vita_projects/NESalizer-master/CMakeFiles/NESalizer.self.dir
+/mnt/c/Users/bashe/Desktop/vita_projects/NESalizer-master/CMakeFiles/NESalizer.dir

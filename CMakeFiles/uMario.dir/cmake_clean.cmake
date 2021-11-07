@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/uMario.dir/src/apu.cpp.obj"
+  "CMakeFiles/uMario.dir/src/audio.cpp.obj"
+  "CMakeFiles/uMario.dir/src/blip_buf.cpp.obj"
+  "CMakeFiles/uMario.dir/src/common.cpp.obj"
+  "CMakeFiles/uMario.dir/src/controller.cpp.obj"
+  "CMakeFiles/uMario.dir/src/cpu.cpp.obj"
+  "CMakeFiles/uMario.dir/src/gui.cpp.obj"
+  "CMakeFiles/uMario.dir/src/input.cpp.obj"
+  "CMakeFiles/uMario.dir/src/main.cpp.obj"
+  "CMakeFiles/uMario.dir/src/mapper.cpp.obj"
+  "CMakeFiles/uMario.dir/src/mapper_0.cpp.obj"
+  "CMakeFiles/uMario.dir/src/mapper_1.cpp.obj"
+  "CMakeFiles/uMario.dir/src/mapper_10.cpp.obj"
+  "CMakeFiles/uMario.dir/src/mapper_11.cpp.obj"
+  "CMakeFiles/uMario.dir/src/mapper_13.cpp.obj"
+  "CMakeFiles/uMario.dir/src/mapper_2.cpp.obj"
+  "CMakeFiles/uMario.dir/src/mapper_232.cpp.obj"
+  "CMakeFiles/uMario.dir/src/mapper_28.cpp.obj"
+  "CMakeFiles/uMario.dir/src/mapper_3.cpp.obj"
+  "CMakeFiles/uMario.dir/src/mapper_4.cpp.obj"
+  "CMakeFiles/uMario.dir/src/mapper_5.cpp.obj"
+  "CMakeFiles/uMario.dir/src/mapper_7.cpp.obj"
+  "CMakeFiles/uMario.dir/src/mapper_71.cpp.obj"
+  "CMakeFiles/uMario.dir/src/mapper_9.cpp.obj"
+  "CMakeFiles/uMario.dir/src/md5.cpp.obj"
+  "CMakeFiles/uMario.dir/src/menu.cpp.obj"
+  "CMakeFiles/uMario.dir/src/ppu.cpp.obj"
+  "CMakeFiles/uMario.dir/src/rom.cpp.obj"
+  "CMakeFiles/uMario.dir/src/save_states.cpp.obj"
+  "CMakeFiles/uMario.dir/src/sdl_backend.cpp.obj"
+  "CMakeFiles/uMario.dir/src/tables.c.obj"
+  "CMakeFiles/uMario.dir/src/timing.cpp.obj"
+  "uMario"
+  "uMario.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C CXX)
+  include(CMakeFiles/uMario.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
